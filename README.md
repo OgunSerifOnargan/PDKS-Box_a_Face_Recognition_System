@@ -11,8 +11,8 @@ The project process is still ongoing...
 
 ## Sample Images
 
-![ExampleStream](sample_images/Ogun O._body-8.png) 
-![ExampleStream](sample_images/Ogun O._face-3.png)
+![ExampleStream](sample_images/Ogun O_body-8.png) 
+![ExampleStream](sample_images/Ogun O_face-3.png)
 
 
 
