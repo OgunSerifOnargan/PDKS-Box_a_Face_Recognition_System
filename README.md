@@ -10,8 +10,7 @@ This project not only demonstrates my capability to lead a multifaceted team but
 The project process is still ongoing...
 
 ## Sample Images
-![Camera Display](PDKS-Box_a_Face_Recognition_System/sample_images/Ogun O._body-8.png)
-![Camera Display](PDKS-Box_a_Face_Recognition_System/sample_images/Ogun O._face-3.png)
+![Example Image](/sample_images/Ogun O._body-8.png)
 
 
 
