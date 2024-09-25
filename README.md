@@ -10,6 +10,7 @@ This project not only demonstrates my capability to lead a multifaceted team but
 The project process is still ongoing...
 
 ## Sample Images
+
 ![ExampleStream](sample_images/Ogun O._body-8.png) 
 ![ExampleStream](sample_images/Ogun O._face-3.png)
 
